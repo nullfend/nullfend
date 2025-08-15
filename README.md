@@ -56,6 +56,8 @@
   </a>
 </div>
 
+
+
 ###
 
 ## 📊 GitHub Stats
@@ -63,3 +65,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nullfend&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7045b8&icon_color=7045b8" alt="GitHub Stats" />
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/nullfend/nullfend/output/snake.svg" alt="Snake animation" />
+
+###

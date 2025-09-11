@@ -9,7 +9,7 @@
 ###
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7045b8&center=true&vCenter=true&width=500&lines=Securing+the+Digital+Frontier;Ethical+Hacking+%7C+OSINT+%7C+Forensics;Cyber+Defense+for+Everyone" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7045b8&center=true&vCenter=true&width=500&lines=We+Build+Real+Skills+For+Real+Threats;Ethical+Hacking+%7C+OSINT+%7C+Forensics;Cyber+Defense+for+Everyone" alt="Typing SVG" />
   </a>
 </p>
 
